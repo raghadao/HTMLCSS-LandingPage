@@ -292,7 +292,7 @@ line-height: 1;
     left: 50px;
     right: 50px;
     z-index: 1;
-
+}
 .full-banner-image{
 
     flex: 0 0 58.333333%;
@@ -301,6 +301,8 @@ line-height: 1;
     background-position: top center;
     min-height: 400px;
 }
+
+
 .full-banner-sidebar{
     flex: 0 0 41.666667%;
     background-color: #364147;
